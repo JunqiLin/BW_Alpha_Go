@@ -1,5 +1,5 @@
 # BW_Alpha_Go
-new alpha go
+模拟海龟策略的实现，并进行回测
 ###summary
 ![](summary.png)
 ###balance
